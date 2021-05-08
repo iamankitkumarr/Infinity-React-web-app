@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9ad4614.chunk.css",
+    "main.js": "/static/js/main.81580fac.chunk.js",
+    "main.js.map": "/static/js/main.81580fac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6bb0ad1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6bb0ad1e.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.8871cd98.chunk.js": "/static/js/2.8871cd98.chunk.js",
+    "static/js/2.8871cd98.chunk.js.map": "/static/js/2.8871cd98.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a9ad4614.chunk.css.map": "/static/css/main.a9ad4614.chunk.css.map",
+    "static/js/2.8871cd98.chunk.js.LICENSE.txt": "/static/js/2.8871cd98.chunk.js.LICENSE.txt",
+    "static/media/AKASH.85d49b9f.jpeg": "/static/media/AKASH.85d49b9f.jpeg",
+    "static/media/SUMIT.c8083f5b.jpeg": "/static/media/SUMIT.c8083f5b.jpeg",
+    "static/media/index.css": "/static/media/bg.1dc85027.jpg",
+    "static/media/faculty3.cb39ba47.jpeg": "/static/media/faculty3.cb39ba47.jpeg",
+    "static/media/faculty4.6887f1ae.jpeg": "/static/media/faculty4.6887f1ae.jpeg",
+    "static/media/logo.ff13fa85.png": "/static/media/logo.ff13fa85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb0ad1e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8871cd98.chunk.js",
+    "static/css/main.a9ad4614.chunk.css",
+    "static/js/main.81580fac.chunk.js"
+  ]
+}
